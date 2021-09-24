@@ -26,7 +26,7 @@ create an account on open weather website and generate your unique api key
   ```http
    https://source.unsplash.com/1600x900/?" + input_city_name + " 
 ```
-###Sample
+### Sample
 ![Screenshot (121)](https://user-images.githubusercontent.com/44469384/134726870-c3eb33ec-db60-4074-a7cc-eb83d7acfafd.png)
 
 ![Screenshot (123)](https://user-images.githubusercontent.com/44469384/134726643-133b23d8-71ce-4761-962a-6009b9be325d.png)
